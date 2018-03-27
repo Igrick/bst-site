@@ -1,4 +1,13 @@
 #main{
     background-color: green;
 }
+p{
+    width: 50%;
+}
+.first{
+    margin-left: 0;
+}
+.second{
+    margin-right: 0;
+}
 
