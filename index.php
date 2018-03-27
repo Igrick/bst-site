@@ -12,7 +12,6 @@
 	include_once 'css/header.css';
 	include_once 'css/content.css';
 	include_once 'css/footer.css';
-	include_once 'css/main.css';
 	?>
     </head>
     <body>
