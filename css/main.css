@@ -1,4 +1,11 @@
 *{
-    margin: 50px;
-    text-align: 80%;
+    margin-top: : 50px;
+    text-align: center;
+    
+}
+header{
+    height: 100px; 
+}
+footer{
+    height: 80px;
 }
