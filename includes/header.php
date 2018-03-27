@@ -7,5 +7,5 @@
         <title>BST SITE</title>
     </head>
     <body>
-        <div><img src="../images/logo.png"></div>
+        <div id="header"><img src="../images/logo.png"></div>
 
