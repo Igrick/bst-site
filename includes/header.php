@@ -1,2 +1,3 @@
-<div id="header"><img src="../images/logo.png"></div>
-
+<div class="logo">
+    <img src="images/logo.png" alt="logo" class="logo"/>
+</div>

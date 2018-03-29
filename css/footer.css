@@ -1,4 +1,6 @@
-#footer{
-    margin: 0 auto;
+.footer{
+    position: fixed;
+    left: 46%;
+    bottom: 20px;
+    text-align: center;
 }
-

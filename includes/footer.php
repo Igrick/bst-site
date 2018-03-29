@@ -1,2 +1,1 @@
-<div id="footer">bst-team&#169</div>
-
+<div class="footer"><b>bst-team&#169</b></div>
